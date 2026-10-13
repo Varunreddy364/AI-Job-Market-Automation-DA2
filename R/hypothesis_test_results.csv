@@ -1,0 +1,2 @@
+"Test","t_statistic","degrees_of_freedom","p_value","mean_difference","CI_lower","CI_upper"
+"Welch two-sample t-test",191.976435353682,3208.06289292723,0,-0.500945605178447,0.495829321427272,0.506061888929622

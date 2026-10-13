@@ -1,0 +1,7 @@
+"Variable","Mean","Median","Standard_Deviation","Variance","Minimum","Maximum"
+"posting_year",2017.519,2017,4.639,21.516,2010,2025
+"ai_intensity_score",0.287,0.15,0.291,0.085,0,0.95
+"salary_usd",63096.185,60909.5,31431.272,987924828.713,15321,161547
+"salary_change_vs_prev_year_percent",3.015,1.72,5.969,35.626,-5,17.98
+"automation_risk_score",0.586,0.67,0.25,0.063,0.1,0.9
+"job_description_embedding_cluster",9.473,10,5.749,33.048,0,19

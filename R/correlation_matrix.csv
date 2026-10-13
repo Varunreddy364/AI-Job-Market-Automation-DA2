@@ -1,0 +1,6 @@
+"","posting_year","ai_intensity_score","salary_usd","salary_change_vs_prev_year_percent","automation_risk_score"
+"posting_year",1,0.414,0.387,0.496,-0.422
+"ai_intensity_score",0.414,1,0.419,0.669,-0.875
+"salary_usd",0.387,0.419,1,0.378,-0.432
+"salary_change_vs_prev_year_percent",0.496,0.669,0.378,1,-0.676
+"automation_risk_score",-0.422,-0.875,-0.432,-0.676,1
